@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @urtic16
+- 👋 Hi, I’m Theo De Sousa
 - 👀 I’m interested in computer network
 - 🌱 I’m currently learning the job of network technician
 - 💞️ I’m looking to collaborate on ...
